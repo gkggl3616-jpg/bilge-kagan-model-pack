@@ -32,6 +32,6 @@ Dosya/klasör adları okunabilir şekilde sadeleştirildi; kaynak içerik bize a
 
 ## İndirme
 
-[Hazır tek ZIP — yaklaşık 150 MB](https://github.com/gkggl3616-jpg/blood-moon/releases/download/prototype-v0.1.18-25/Bilge-Kagan-ve-4-Model.zip)
+[Hazır tek ZIP — yaklaşık 150 MB](https://github.com/gkggl3616-jpg/bilge-kagan-model-pack/archive/refs/heads/main.zip)
 
-Bu depodaki dosyalar ZIP'in açılmış kopyasıdır; oyun kodu içermez. Dosya bütünlüğü DOSYA-MANIFESTOSU.json üzerinden doğrulanır.
+Bu bağlantı bu deponun güncel main dalını tek ZIP olarak indirir; oyun kodu içermez. Dosya bütünlüğü DOSYA-MANIFESTOSU.json üzerinden doğrulanır.
