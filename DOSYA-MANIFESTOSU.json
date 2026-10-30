@@ -158,5 +158,17 @@
   "README-TR.md": {
     "bytes": 2976,
     "sha256": "40af9b966edfd2152397baee14e21264adac8d043c988b2af8636e89d26f8844"
+  },
+  "BilgeKagan/Animasyonlar/Bilge-Kagan-Kosu.glb": {
+    "bytes": 17881184,
+    "sha256": "551cbd095b1136733eb5bfe96fb559d57554d9fa9d8a3fbfa49972d21fd8e988"
+  },
+  "BilgeKagan/Animasyonlar/Bilge-Kagan-Takla.glb": {
+    "bytes": 17897208,
+    "sha256": "51886d0879ba3d864422d4fc7a881d8b6ee1080307db1eebd2552d28b6242208"
+  },
+  "BilgeKagan/Animasyonlar/MANIFESTO.json": {
+    "bytes": 740,
+    "sha256": "832772ee62262e7b61f6c62f2481f606a84862e821fbcc9a62b08b5bc82e2ad9"
   }
 }

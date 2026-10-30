@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Bilge-Kagan-Kosu.glb",
+    "clip": "T_WallDash",
+    "animationCount": 1,
+    "bones": 42,
+    "durationMs": 533,
+    "bytes": 17881184,
+    "sha256": "551cbd095b1136733eb5bfe96fb559d57554d9fa9d8a3fbfa49972d21fd8e988",
+    "sourceAnimationDataIdentical": true,
+    "blenderImportPassed": true,
+    "blenderAction": "T_WallDash_NativeGameBasis"
+  },
+  {
+    "file": "Bilge-Kagan-Takla.glb",
+    "clip": "T_Specialatk",
+    "animationCount": 1,
+    "bones": 42,
+    "durationMs": 1000,
+    "bytes": 17897208,
+    "sha256": "51886d0879ba3d864422d4fc7a881d8b6ee1080307db1eebd2552d28b6242208",
+    "sourceAnimationDataIdentical": true,
+    "blenderImportPassed": true,
+    "blenderAction": "T_Specialatk_NativeGameBasis"
+  }
+]

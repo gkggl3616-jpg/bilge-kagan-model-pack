@@ -35,3 +35,12 @@ Dosya/klasör adları okunabilir şekilde sadeleştirildi; kaynak içerik bize a
 [Hazır tek ZIP — yaklaşık 150 MB](https://github.com/gkggl3616-jpg/bilge-kagan-model-pack/archive/refs/heads/main.zip)
 
 Bu bağlantı bu deponun güncel main dalını tek ZIP olarak indirir; oyun kodu içermez. Dosya bütünlüğü DOSYA-MANIFESTOSU.json üzerinden doğrulanır.
+
+## Ayrı koşu ve takla dosyaları
+
+- [Yalnız koşu klibi — Bilge-Kagan-Kosu.glb](https://raw.githubusercontent.com/gkggl3616-jpg/bilge-kagan-model-pack/main/BilgeKagan/Animasyonlar/Bilge-Kagan-Kosu.glb): `T_WallDash`, 533 ms. Döngülü oynatılır.
+- [Yalnız takla klibi — Bilge-Kagan-Takla.glb](https://raw.githubusercontent.com/gkggl3616-jpg/bilge-kagan-model-pack/main/BilgeKagan/Animasyonlar/Bilge-Kagan-Takla.glb): `T_Specialatk`, 1000 ms. Tek sefer oynatılır.
+
+Her GLB yalnız ilgili tek animasyonu içerir; Bilge kurt modeli, 42 kemikli iskelet ve gömülü dokular korunmuştur. Kullanılmayan animasyonlar ve onların ikili verileri çıkarılmıştır. Seçili klibin anahtar zamanları/dönüşleri/ötelemeleri ve model verileri değişmemiştir. Oyun fiziği/ileri ilerleme kodu içermez. `BilgeKagan/Animasyonlar/MANIFESTO.json` dosya boyutlarını ve hashleri içerir.
+
+Blender içe aktarıcısı Action adının sonuna nesne adını ekleyebilir: `T_WallDash_NativeGameBasis` ve `T_Specialatk_NativeGameBasis`. Dosya başına tek Action bulunur.
