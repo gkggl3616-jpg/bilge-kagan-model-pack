@@ -1,0 +1,162 @@
+{
+  "BilgeKagan/Kurt.glb": {
+    "bytes": 21967476,
+    "sha256": "1b08c712bdbe96d9dd607da6a61c3dfd8b4ef3f2ab440d27a35369806354ef71"
+  },
+  "BilgeKagan/Dokular/Kurt/00.png": {
+    "bytes": 5563044,
+    "sha256": "3397cbae9f4800aae7f150d02c4038dd2b1245e4081c0504ea3690e384369e55"
+  },
+  "BilgeKagan/Dokular/Kurt/01.png": {
+    "bytes": 4498635,
+    "sha256": "cfdd8c4eca4fa8979048c3a240b7f4996f6ab7f9f3a567f0e21ca4c1b5eb2f85"
+  },
+  "BilgeKagan/Dokular/Kurt/02.png": {
+    "bytes": 1043074,
+    "sha256": "223f7994ee93db9e0ab24a8ad2162b45090d57c1fea3ae1b2f3e48be7a98f3f2"
+  },
+  "BilgeKagan/Dokular/Kurt/03.png": {
+    "bytes": 1257301,
+    "sha256": "26dc87bb37a76a6f2f6b030bb37eb5a709c2b320ef65ae4829cc3cedeb0f2c03"
+  },
+  "BilgeKagan/Dokular/Kurt/04.png": {
+    "bytes": 2885611,
+    "sha256": "84ae319abe619f1c7b209cd6e8d38e9c6f414015ef6c086e1fbfd45c70f57c35"
+  },
+  "BilgeKagan/Insan.glb": {
+    "bytes": 17465176,
+    "sha256": "754233f0a108e69cb3167f0b842936ce520b19a4ce17c7f57c451bcbd7b72e7a"
+  },
+  "BilgeKagan/Dokular/Insan/00.png": {
+    "bytes": 5504170,
+    "sha256": "7c7b5436a4defe3d71bd012dbc49ec329a07c58159bf2412f05e49f802b9db29"
+  },
+  "BilgeKagan/Dokular/Insan/01.png": {
+    "bytes": 7015957,
+    "sha256": "1218f0cdfe8ae88287819e97bdf562f6004f49f47812a2743595db899c198bab"
+  },
+  "BilgeKagan/Dokular/Insan/02.jpg": {
+    "bytes": 1941017,
+    "sha256": "8208d956ec16d39bf0da3d6030ad7b21574306cb3da348a51d2051063cfbda1e"
+  },
+  "BilgeKagan/Kaynak/Modeller/wt_wolf_power_r.ltb": {
+    "bytes": 264204,
+    "sha256": "5674cda28cc4c623acb9906839c766c100a41a5bbca6b73898bb7ea2c83259ab"
+  },
+  "BilgeKagan/Kaynak/Modeller/pedro.ltb": {
+    "bytes": 154764,
+    "sha256": "ef1111e1bf1804da63de457551ff48a13882dcd34e71e1d0924fd6130b34535a"
+  },
+  "BilgeKagan/Kaynak/Animasyonlar/wt_new_wolf_ch.ltb": {
+    "bytes": 2088235,
+    "sha256": "c06e7e9347968a1987126450bdb7ba3d37353ac97c414ace261bfca9873bbfc4"
+  },
+  "BilgeKagan/Kaynak/Animasyonlar/wt_new_man_ch.ltb": {
+    "bytes": 20579112,
+    "sha256": "f026978087746f5b44df7cf90a8927a189d2596f2660e01f369518a209fbd950"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/skins/wt_wolf_r.dtx": {
+    "bytes": 262308,
+    "sha256": "177c557b511de9fb4628f12577307ea42483e49f43e015612702de9deff47b5a"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/skins/wt_man_r.dtx": {
+    "bytes": 262308,
+    "sha256": "0aa35dda8c8e6e7e1742267f821d0be3c4c77e7e2cb3864e55ccc2a31c399545"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/skins/wt_pv_mark2.dtx": {
+    "bytes": 4260,
+    "sha256": "cd2e7207cd096e813a8e151f052a802009a40f773b6c2d16db0329c3a4d5df82"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/skins/wt_wolf_powershoulder_r.dtx": {
+    "bytes": 32932,
+    "sha256": "f9ff64546ec4feef3dded2dfe95ada30898774568d2786e0b15df58abc2b184d"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/skins/helmet.dtx": {
+    "bytes": 16548,
+    "sha256": "baea1519fd15fa3829e2919aa7ba909593b9ea10ba8151854939e4dfecfdf7f5"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/newchars/pedro_red/pedro_r_upperbody.dtx": {
+    "bytes": 262308,
+    "sha256": "c065dc6c65556923c4a7ad04f208e1f4e6cc78af48472ee1cccd80bb11a23335"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/newchars/pedro_red/pedro_r_lowerbody.dtx": {
+    "bytes": 262308,
+    "sha256": "36481d84369262dd47d1cad8d206927414313d117b9f5513e7b737359e257a71"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/newchars/pedro_red/pedro_gloves01.dtx": {
+    "bytes": 65700,
+    "sha256": "a6263554c28f524eab82fd5ebe8782a0caac8372c38fd53b14227e5cf2a22ab6"
+  },
+  "BilgeKagan/Kaynak/DTX/wt_chars/newchars/pedro_red/pedro_boots01.dtx": {
+    "bytes": 65700,
+    "sha256": "e1f0a722c03e90527413f1606361717bb6350eaa86e7cd9d58131f8b6f2711c8"
+  },
+  "BilgeKagan/Calisma/Bilge-Kagan-Kurt-static.blend": {
+    "bytes": 50909176,
+    "sha256": "e4b46c160e569902e93d7c6fcc1fbc5a5e441fb64021dcfd963ce3526f04db40"
+  },
+  "BilgeKagan/Calisma/Bilge-Kagan-Insan-static.blend": {
+    "bytes": 16624457,
+    "sha256": "d5665acc5926460d37e9d92e6f708d0641d763d828992b503f1b5741c10b21af"
+  },
+  "DortModel/Buz-40/Model.glb": {
+    "bytes": 4230244,
+    "sha256": "6e1acd670719b4e5360818b45d70f797b33fe6281855cc1388717f63d9882568"
+  },
+  "DortModel/Buz-40/Govde.ltb": {
+    "bytes": 304560,
+    "sha256": "32e2637bd78560ce7a1c0099b48dcbf84b19ef1b5d3a66b5e4d1dfde9c975798"
+  },
+  "DortModel/Buz-40/Hareketler.ltb": {
+    "bytes": 2323994,
+    "sha256": "0461cf9aca3a1f0b3f8c8297c392fb5a6b10177ae21afdaaa31c3046090740cc"
+  },
+  "DortModel/Kan-54/Model.glb": {
+    "bytes": 6098420,
+    "sha256": "cf3a4c5df2f716feed13d817ad8ea28d17e904d9929facbfc1f7986dbae998f4"
+  },
+  "DortModel/Kan-54/Govde.ltb": {
+    "bytes": 3485256,
+    "sha256": "09ae380ec3e42173d4223e7c998268d91d27f53ce16a20cdbbd96baf5d3542e3"
+  },
+  "DortModel/Koz-42/Model.glb": {
+    "bytes": 3991440,
+    "sha256": "7fb9958b6dc4dabe9ff92572fcce73077959d3650ac4c1d40aa93fadf0bc9e34"
+  },
+  "DortModel/Koz-42/Govde.ltb": {
+    "bytes": 264204,
+    "sha256": "5674cda28cc4c623acb9906839c766c100a41a5bbca6b73898bb7ea2c83259ab"
+  },
+  "DortModel/Koz-42/Hareketler.ltb": {
+    "bytes": 2088235,
+    "sha256": "c06e7e9347968a1987126450bdb7ba3d37353ac97c414ace261bfca9873bbfc4"
+  },
+  "DortModel/Golge-58/Model.glb": {
+    "bytes": 7723268,
+    "sha256": "e893b30d1e2c7f7919c3c656054e6429c76bb1c07bb1fafe02828bb65761c39d"
+  },
+  "DortModel/Golge-58/Govde.ltb": {
+    "bytes": 4881752,
+    "sha256": "02775da4048109d5bfa6635d64420fe388094da1638eca6c4f73f75b1ad64c8f"
+  },
+  "DortModel/KOKEN-VE-ANIMASYONLAR.json": {
+    "bytes": 1207,
+    "sha256": "f24719e4b029f014696cf461cdb45ab32c4a378c18285f88c7008329f2355a5e"
+  },
+  "BilgeKagan/Dovme/Atlas.png": {
+    "bytes": 2885611,
+    "sha256": "84ae319abe619f1c7b209cd6e8d38e9c6f414015ef6c086e1fbfd45c70f57c35"
+  },
+  "BilgeKagan/Dovme/Politika.json": {
+    "bytes": 1540,
+    "sha256": "518f2b3251db33a43c048f706bc685070f0470bd4d48af71f0b97b10be85d5ec"
+  },
+  "BilgeKagan/Ses/Kukreme.wav": {
+    "bytes": 116368,
+    "sha256": "59852021730ac0b89f54c61e73d95fa8e865350791d9d7251ecef26198b02681"
+  },
+  "README-TR.md": {
+    "bytes": 2976,
+    "sha256": "40af9b966edfd2152397baee14e21264adac8d043c988b2af8636e89d26f8844"
+  }
+}
